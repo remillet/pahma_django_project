@@ -7,3 +7,5 @@ This is essentially an archetype for creating Django projects (websites) that ar
 
 It also comes configured with a "back-end" CollectionSpace authentication provider.  See the README.txt file in the /cspace_django_site/authn directory for instructions on setting it up.
 
+Wanting to issue a pull request to push this to https://github.com/remillet/cspace_django_project
+
